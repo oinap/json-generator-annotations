@@ -2,6 +2,7 @@ name: json_class_generator_annotations
 description: "Annotation package for json_class_generator"
 version: 0.0.1
 homepage:
+repository: https://github.com/oinap/json-generator-annotations.git
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
